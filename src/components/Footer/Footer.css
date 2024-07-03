@@ -1,13 +1,10 @@
-.row {
+.footer-row {
   background-color: rgb(230, 230, 230);
   margin-top: 50px;
   padding: 15px 0px 0px 0px;
 }
 
-.footer {
-  width: 100%;
-}
-li {
+.footer li {
   list-style: none;
 }
 

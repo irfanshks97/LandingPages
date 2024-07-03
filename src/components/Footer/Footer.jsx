@@ -6,7 +6,7 @@ import logo from "../../assets/images/logo.png";
 export const Footer = () => {
   return (
     <div className="footer">
-      <div className="row d-flex align-items-end">
+      <div className="row d-flex align-items-end footer-row">
         <div className="col-sm-6">
           <ul className="d-flex links">
             <li className="me-2">
